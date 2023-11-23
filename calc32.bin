@@ -1,0 +1,5 @@
+Processor architecture: INTEL
+Number of processors: 12
+Page size: 4096 bytes
+Minimum application address: 0x00010000
+Maximum application address: 0x7FFEFFFF
